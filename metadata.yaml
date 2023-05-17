@@ -1,0 +1,44 @@
+_repo: Moon-of-memory_70501
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Luros, Milton
+    alias: Rosenblatt, Milton Louis
+    birthdate: 1911
+    deathdate: 1999
+    gutenberg_agent_id: '41543'
+    url: http://www.gutenberg.org/2009/agents/41543
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_issued: '2023-04-08'
+identifiers:
+  gutenberg: '70501'
+language: en
+pgterms:marc905: 20220529054138walton
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Deimos (Satellite) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Moon of memory
+url: http://www.gutenberg.org/ebooks/70501
